@@ -1,0 +1,11 @@
+D:\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojResolveAssemblyReference.cache
+D:\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+D:\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+D:\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+D:\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.dll
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\bin\Debug\OtelOtomasyonu.ORM.pdb
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csprojAssemblyReference.cache
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.csproj.CoreCompileInputs.cache
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.dll
+F:\Bilgiler\d\C# Form Projeleri\OtelOtomasyonu\OtelOtomasyonu.ORM\obj\Debug\OtelOtomasyonu.ORM.pdb

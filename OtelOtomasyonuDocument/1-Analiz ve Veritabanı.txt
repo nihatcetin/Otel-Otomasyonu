@@ -1,0 +1,24 @@
+Otel Otomasyonu
+-----------------------
+1-Odalar
+2-Oda Türleri
+-Özellikler
+-Oda Özellikleri
+-Rezervasyon İşlemleri
+-Tedarikçiler
+-Müşteriler
+-Personeller
+-Personel Çalışma Saatleri
+-Personel Maaşları(gider)
+-Kategoriler
+-Ürünler
+-Hizmetler
+-Kampanyalar
+-Kampanya Detay
+-Satın Alma(Dışarıdan alınan malzemeler-gider)
+-Satış
+-Ürün Satışı(Satış Detay)(gelir)
+-Oda Satışı(Satış Detay)(gelir)
+-Kasa
+-Kasa Hareketleri
+-Kasa Hareket Tipi(gelir-gider)
